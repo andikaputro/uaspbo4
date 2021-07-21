@@ -1,8 +1,8 @@
 tugas UAS PBO 4
 
-Nama	: Aldi Septiyan
-NPM	: 1101181118
-Kelas	: TI - 03
+Nama	: Andika Rizki Dwi Putro
+NPM	: 1101181114
+Kelas	: TI - 01 Malam
 
 <p align="center">
 <img src="dashboard.png"></a>
